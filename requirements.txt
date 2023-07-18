@@ -1,5 +1,4 @@
 pypdf
 langchain
 openai
-langchain[docarray]
 sentence_transformers
